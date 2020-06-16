@@ -9,6 +9,9 @@ It is a little weather app.It allows to obtain the information of the specific c
 ## Change view for get 5 days ago or 7 days later
 You only need to click in floating action button to see this feature.
 
+## Download
+You can download the apk located in APK folder.
+
 ## Tools
 ```
 -Kotlin
