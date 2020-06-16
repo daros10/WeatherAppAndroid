@@ -10,10 +10,12 @@ It is a little weather app.It allows to obtain the information of the specific c
 You only need to click in floating action button to see this feature.
 
 ## Tools
+```
 -Kotlin
 -Retrofit
 -GSON
 -OpenWeatherAPI
+```
 
 ## Author
 -Dario Herrera
